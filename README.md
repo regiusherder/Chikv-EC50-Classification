@@ -29,8 +29,8 @@ pip install rdkit numpy pandas tqdm scikit-learn
 
 ### Clone the Repository
 ```sh
-git clone https://github.com/your-repo-name.git
-cd your-repo-name
+git clone https://github.com/Chikv-EC50-Classification.git
+cd Chikv-EC50-Classification
 ```
 
 ## Usage
