@@ -12,7 +12,7 @@ This repository contains a pipeline for predicting the antiviral activity of com
 ## Installation
 ### Prerequisites
 Ensure that the following dependencies are installed:
-- Python 3.x
+- Python 3.12.6
 - RDKit
 - NumPy
 - Pandas
