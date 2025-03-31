@@ -1,10 +1,7 @@
-# Antiviral Compound Classification Pipeline
+# Machine learning-based prediction of antiviral compounds for Chikungunya: Drug discovery using a combination of computational approaches.
 
 ## Overview
 This repository contains a pipeline for predicting the antiviral activity of compounds using machine learning. The workflow involves generating molecular conformers, calculating molecular descriptors, and classifying compounds based on their antiviral potential.
-
-The methodology is inspired by the research paper:
-**"Machine learning-based prediction of antiviral compounds for Chikungunya: Drug discovery using a combination of computational approaches."**
 
 ## Workflow
 1. **SMILES Input**: The user provides a SMILES string or a file containing multiple SMILES.
