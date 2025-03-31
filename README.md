@@ -47,7 +47,7 @@ python sdf_convert.py -f smiles_list.txt -o output.sdf
 - - In the General tab
   - - Enable `1D & 2D`, `3D`, and `Fingerprints`
     - Enable `Remove salts` and `Standardize nitro groups`
-- - In the `1D & 2D` and `3D` tab keep all the options enabled
+  - In the `1D & 2D` and `3D` tab keep all the options enabled
   - In the `Fingerprints` tab only enable the `MACCSFingerprinter`
 - Use it to generate a CSV file with molecular descriptors.
 
