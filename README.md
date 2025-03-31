@@ -44,8 +44,8 @@ python sdf_convert.py -f smiles_list.txt -o output.sdf
 ### Step 2: Compute Molecular Descriptors
 - Download [PaDEL-Descriptor](http://yapcwsoft.com/dd/padeldescriptor/).
 - When using the software to generate the descriptors use the following settings (disable the options that were not mentioned)
-- - In the General tab
-  - - Enable `1D & 2D`, `3D`, and `Fingerprints`
+  - In the General tab
+    - Enable `1D & 2D`, `3D`, and `Fingerprints`
     - Enable `Remove salts` and `Standardize nitro groups`
   - In the `1D & 2D` and `3D` tab keep all the options enabled
   - In the `Fingerprints` tab only enable the `MACCSFingerprinter`
